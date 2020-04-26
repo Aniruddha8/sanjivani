@@ -43,7 +43,7 @@ body{
 /*dropdown button styling by id of button*/
 #dropdownMenuButton{
   background-color: #1E90FF;
-  width: 60%;
+  width: 45%;
   display: block;
   position: middle;
   padding: 10px 20px;
